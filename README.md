@@ -1,4 +1,4 @@
-# ST415_STAT_Dissertation
+# Master's Dissertation
 MCMC for Bayesian Non Parametric Mixture Models
 
 Disclaimer: 
